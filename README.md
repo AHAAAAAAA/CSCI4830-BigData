@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CUBigDataClass/cartel/master/web_frontend/app/img/readme.png">
 </p>
-[Website](http://ec2-52-38-170-99.us-west-2.compute.amazonaws.com:61621), [REST API] (http://ec2-52-32-222-112.us-west-2.compute.amazonaws.com:8888/api/) + [Endpoint] (https://github.com/CUBigDataClass/cartel/blob/master/django_api/api/urls.py)
+[Website](http://ec2-52-38-170-99.us-west-2.compute.amazonaws.com:61621), [REST API] (http://ec2-52-32-222-112.us-west-2.compute.amazonaws.com:8888/api/) + [Endpoint] (https://github.com/CUBigDataClass/cartel/blob/master/django_api/api/urls.py), [Demo](https://youtu.be/EWpcEVLhtEc)
 
 We're currently going through a changed election cycle. There's an unprecedented ability to broadcast information to voters, and to organize. Candidates have learned to adapt, some better than others, to this new landscape. Wars are waged across the battlefields of the Internet and we chose to focus on the battle for Twitter. With the unprecedented ability to broadcast information, we've also gained the ability to crowdsource massive amounts of data as the Internet opened up the gates to a 2-way information highway. We collected millions of Tweets over the course of weeks and processed them to try and unlock this information.
 
